@@ -1,5 +1,5 @@
 # Coursera_InteractivityWthJavaScript
-Course Name: Interactivity WthJ avaScript.                                                                
+Course Name: Interactivity Wth JavaScript.                                                                
 Platform: Coursera.                                                      
 This is an Online course of Coursera. Assignments are given every week including a final project.                                       
 Week One: Introduction to JavaScript.                                      
